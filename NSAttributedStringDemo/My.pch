@@ -1,0 +1,21 @@
+
+//
+//  My.pch
+//  NSAttributedStringDemo
+//
+//  Created by Caixia Sun on 16/9/2.
+//  Copyright © 2016年 CaixiaSun. All rights reserved.
+//
+
+#ifndef My_pch
+#define My_pch
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+#define kString3 @"改变文字的行间距,改变文字的行间距,改变文字的行间距,改变文字的行间距,改变文字的行间距,改变文字的行间距,改变文字的行间距"
+#define kString1 @"改变文字中某些字的颜色,改变文字中某些字的颜色"
+#define kString2 @"改变文字中某些字的字体和颜色,改变文字中某些字的字体和颜色,改变文字中某些字的字体和颜色,改变文字中某些字的字体和颜色"
+#define kString4 @"改变文字的字间距,改变文字的字间距,改变文字的字间距,改变文字的字间距,改变文字的字间距,改变文字的字间距"
+
+#endif /* My_pch */
